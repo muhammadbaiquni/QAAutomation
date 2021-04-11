@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="9567" started-at="2021-04-11T16:01:26 ICT" finished-at="2021-04-11T16:01:36 ICT">
+  <suite name="Default suite" duration-ms="9584" started-at="2021-04-11T16:36:08 ICT" finished-at="2021-04-11T16:36:18 ICT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="9567" started-at="2021-04-11T16:01:26 ICT" finished-at="2021-04-11T16:01:36 ICT">
+    <test name="Default test" duration-ms="9584" started-at="2021-04-11T16:36:08 ICT" finished-at="2021-04-11T16:36:18 ICT">
       <class name="com.jakartalabs.fullstack_answer.TestAPI">
-        <test-method status="PASS" signature="testRegisterAPI()[pri:1, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testRegisterAPI" duration-ms="5150" started-at="2021-04-11T16:01:26 ICT" finished-at="2021-04-11T16:01:31 ICT">
+        <test-method status="PASS" signature="testRegisterAPI()[pri:1, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testRegisterAPI" duration-ms="5010" started-at="2021-04-11T16:36:08 ICT" finished-at="2021-04-11T16:36:13 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegisterAPI -->
-        <test-method status="PASS" signature="testChangeCurrencyAPI()[pri:2, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testChangeCurrencyAPI" duration-ms="1700" started-at="2021-04-11T16:01:31 ICT" finished-at="2021-04-11T16:01:33 ICT">
+        <test-method status="PASS" signature="testChangeCurrencyAPI()[pri:2, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testChangeCurrencyAPI" duration-ms="1753" started-at="2021-04-11T16:36:13 ICT" finished-at="2021-04-11T16:36:15 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testChangeCurrencyAPI -->
-        <test-method status="PASS" signature="testCheckProfileAPI()[pri:3, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testCheckProfileAPI" duration-ms="1362" started-at="2021-04-11T16:01:33 ICT" finished-at="2021-04-11T16:01:34 ICT">
+        <test-method status="PASS" signature="testCheckProfileAPI()[pri:3, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testCheckProfileAPI" duration-ms="1426" started-at="2021-04-11T16:36:15 ICT" finished-at="2021-04-11T16:36:16 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCheckProfileAPI -->
-        <test-method status="PASS" signature="testLogoutAPI()[pri:4, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testLogoutAPI" duration-ms="1292" started-at="2021-04-11T16:01:34 ICT" finished-at="2021-04-11T16:01:36 ICT">
+        <test-method status="PASS" signature="testLogoutAPI()[pri:4, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testLogoutAPI" duration-ms="1321" started-at="2021-04-11T16:36:16 ICT" finished-at="2021-04-11T16:36:18 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogoutAPI -->
       </class> <!-- com.jakartalabs.fullstack_answer.TestAPI -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
