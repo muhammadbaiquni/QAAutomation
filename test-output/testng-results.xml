@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9935" started-at="2021-04-11T13:51:52 ICT" finished-at="2021-04-11T13:52:02 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9935" started-at="2021-04-11T13:51:52 ICT" finished-at="2021-04-11T13:52:02 ICT">
+      <class name="com.jakartalabs.fullstack_answer.TestAPI">
+        <test-method status="PASS" signature="testRegisterAPI()[pri:1, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testRegisterAPI" duration-ms="5321" started-at="2021-04-11T13:51:52 ICT" finished-at="2021-04-11T13:51:58 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterAPI -->
+        <test-method status="PASS" signature="testChangeCurrencyAPI()[pri:2, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testChangeCurrencyAPI" duration-ms="1757" started-at="2021-04-11T13:51:58 ICT" finished-at="2021-04-11T13:52:00 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChangeCurrencyAPI -->
+        <test-method status="PASS" signature="testCheckProfileAPI()[pri:3, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testCheckProfileAPI" duration-ms="1425" started-at="2021-04-11T13:52:00 ICT" finished-at="2021-04-11T13:52:01 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckProfileAPI -->
+        <test-method status="PASS" signature="testLogoutAPI()[pri:4, instance:com.jakartalabs.fullstack_answer.TestAPI@1ae8bcbc]" name="testLogoutAPI" duration-ms="1337" started-at="2021-04-11T13:52:01 ICT" finished-at="2021-04-11T13:52:02 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoutAPI -->
+      </class> <!-- com.jakartalabs.fullstack_answer.TestAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

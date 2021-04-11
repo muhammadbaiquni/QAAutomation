@@ -1,0 +1,11 @@
+com\jakartalabs\utils\BrowserActions.class
+com\jakartalabs\utils\TestUtils.class
+com\jakartalabs\utils\DataUtils.class
+com\jakartalabs\fullstack_answer\IDriverManager.class
+com\jakartalabs\baseapi\User.class
+com\jakartalabs\fullstack_answer\TestNGExamples.class
+com\jakartalabs\fullstack_answer\TestUI.class
+com\jakartalabs\utils\APIActions.class
+com\jakartalabs\baseapi\BaseAPITest.class
+com\jakartalabs\baseui\BaseUITest.class
+com\jakartalabs\fullstack_answer\TestAPI.class

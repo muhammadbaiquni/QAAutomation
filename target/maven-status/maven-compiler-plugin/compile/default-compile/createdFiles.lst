@@ -1,0 +1,5 @@
+com\jakartalabs\fullstack_answer\App.class
+com\jakartalabs\fullstack_answer\JsonPaths.class
+com\jakartalabs\page_objects\Dashboard.class
+com\jakartalabs\fullstack_answer\APIEndpoints.class
+com\jakartalabs\page_objects\Home.class

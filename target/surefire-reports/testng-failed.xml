@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.jakartalabs.fullstack_answer.TestUI">
+        <methods>
+          <include name="testLoginUI"/>
+          <include name="setupSystemUnderTest"/>
+          <include name="cleanup"/>
+          <include name="testDeleteTemplateUI"/>
+          <include name="testSelectProjectUI"/>
+          <include name="testFeaturesUI"/>
+          <include name="testSaveTemplateUI"/>
+          <include name="testDeliveryUI"/>
+        </methods>
+      </class> <!-- com.jakartalabs.fullstack_answer.TestUI -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
