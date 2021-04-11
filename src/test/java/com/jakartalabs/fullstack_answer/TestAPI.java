@@ -65,7 +65,7 @@ public class TestAPI extends BaseAPITest {
 		
 		APIActions.verifyAPIResponse(checkProfileResponse);
 //		APIActions.assertStringJsonResponse(checkProfileResponse, JsonPaths.profileEmail, user.getEmail());
-		APIActions.assertStringJsonResponse(checkProfileResponse, JsonPaths.profileEmail, user.getEmail());
+		APIActions.assertStringJsonResponse(checkProfileResponse, JsonPaths.profileEmail, "test@gmail.com");
 	}
 	
 	@Test(priority = 4)
